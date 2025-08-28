@@ -1,81 +1,61 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3k5ZWYyNnZtcWQ0cWZ2cWZ5a3ZqZ2V6c2QzOWF3cXJwbmlwYXZkYiZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" alt="AI Banner" width="80%" />
-</p>
-
-# 👋 Hi, I'm Sai! | QA turned AI Engineer 🚀
+# 👋 Hi, I'm Sai Kiran | Senior QA Engineer → AI Engineer 🚀
 
 ---
 
-## 🌟 Welcome to My Portfolio!
+## 🌟 About Me  
 
-I'm a **Senior QA Engineer** making the leap into the world of **AI Engineering**. My journey is fueled by curiosity, creativity, and a passion for solving smart problems.
-
-### 🧭 Mission
-**Quality meets Intelligence.** I believe robust testing and smart automation are the heart of trustworthy AI. I aim to merge the best of QA and AI for reliable, impactful solutions.
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 1. AI Model Test Lab
-A toolkit for automated validation and stress-testing of machine learning models.  
-**Tech:** Python, Pytest, scikit-learn, TensorFlow  
-**Focus:** Model accuracy, robustness, edge-case handling
-
-### 🕵️‍♂️ 2. Data Detective
-A creative data profiling & anomaly detection suite.  
-**Tech:** pandas, matplotlib, scikit-learn  
-**Focus:** Data quality, outlier visualization, reporting dashboards
-
-### 🧠 3. Explainable AI Playground
-A web app showcasing explainable AI tools for model transparency.  
-**Tech:** Python, Streamlit, SHAP, LIME  
-**Focus:** Model interpretability, ethical AI, hands-on demos
-
-### 🦾 4. Smart Test Automation Hub
-Next-gen automation framework integrating AI for smarter test case selection and prioritization.  
-**Tech:** Selenium, Python, ML algorithms  
-**Focus:** Reducing flakiness, predictive test analytics
-
-### 🌍 5. AI for Good: Bias Buster
-A project that audits and visualizes bias in datasets and ML models.  
-**Tech:** Python, Fairness Indicators, Jupyter  
-**Focus:** Responsible AI, fairness dashboards
+- 🔭 Senior **QA Automation Engineer** with 7+ years of experience  
+- 🤖 Transitioning into **AI Engineering** (Vector DBs, RAG, LLM testing)  
+- 🛠 Skilled in **PyTest, Playwright, Selenium, JMeter, Locust, Docker, Azure DevOps**  
+- 📊 Passionate about **AI QA systems, data-driven testing, and performance engineering**  
 
 ---
 
-## 🛠 Skills & Toolbox
+## 🚀 Featured Projects  
 
-- **QA Automation:** Selenium, Cypress, Pytest
-- **Languages:** Python, JavaScript
-- **AI/ML:** scikit-learn, TensorFlow, PyTorch, Jupyter
-- **DevOps/MLOps:** GitHub Actions, Docker, MLflow
-- **Visualization:** Matplotlib, Streamlit
-- **Testing AI:** Model validation, data integrity, reproducibility
+### 🤖 [AI Vector Service (FastAPI)](https://github.com/Saik0018/ai-vector-service-fastapi)  
+Embedding & similarity search API with FastAPI, FAISS, and pluggable LLM embeddings.  
 
----
+### 🧠 [RAG Mini](https://github.com/Saik0018/rag-mini)  
+Local Retrieval-Augmented Generation pipeline using FAISS & Python, with query + chunk evaluation.  
 
-## 🛤️ My Journey
+### 🧪 [LLM Eval Harness](https://github.com/Saik0018/llm-eval-harness)  
+PyTest-based test harness for validating LLM outputs (regex, ROUGE, schema).  
 
-| QA Expert | → | AI Explorer | → | Future AI Leader |
-|:---:|:---:|:---:|:---:|:---:|
-| 7+ years in QA | Automation wizard | Data wrangler | ML model tester | Ethical AI advocate |
+### 🧾 [PyTest API Automation Framework](https://github.com/Saik0018/pytest-api-automation-framework)  
+YAML-driven, data-driven API automation framework with Allure reporting.  
 
----
+### 🖥️ [Playwright UI Automation](https://github.com/Saik0018/playwright-ui-automation)  
+Cross-browser UI automation with Playwright, POM, and parallel execution.  
 
-## 📫 Connect & Collaborate
-
-- [LinkedIn](http://linkedin.com/in/sai-kiran-94ba92209)
-- [Email](mailto:dunsaikiran@gmail.com)
+### ⚡ [CI/CD & Performance](https://github.com/Saik0018/ci-cd-automation-pipeline)  
+Azure Pipelines + Locust performance testing framework for scalable QA.  
 
 ---
 
-## ✨ Fun Fact
+## 🛠 Skills  
 
-> "I break things to make them better. Now, I teach machines to learn from their mistakes too."
+**QA Automation:** PyTest · Playwright · Selenium · Cypress · Postman  
+**AI/ML QA:** Vector DBs · RAG · Prompt Testing · LLM Eval  
+**Performance:** JMeter · Locust · Grafana  
+**DevOps:** Azure DevOps · GitHub Actions · Docker · Kubernetes  
+**Databases:** SQL · FAISS  
+**Visualization:** Power BI · Streamlit  
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRoZ2t0M2Nvd3Vmc2dpdGJvN25oc2xvN3g5b2d4ZHR3dGZ6cXAwZyZjdD1n/26xBuwmAwY9kT0hQY/giphy.gif" alt="Creative Footer" width="60%" />
-</p>
+## 🛤️ Career Path  
+
+| **QA Expert** | → | **Automation Leader** | → | **AI Explorer** | → | **Future AI QA Specialist** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 7+ years QA | Framework builder | CI/CD Integrator | RAG, LLM testing | Scaling AI QA |
+
+---
+
+## 📫 Connect  
+
+- [LinkedIn](http://linkedin.com/in/sai-kiran-94ba92209)  
+- [Email](mailto:dunsaikiran@gmail.com)  
+- [Portfolio Website](https://saik0018.github.io)  
+
+---
